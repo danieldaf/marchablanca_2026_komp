@@ -7,7 +7,7 @@ El clima cambió los planes de la Marcha Blanca, pero entre todo eso
 <strong>también apareció una buena noticia ;)</strong> </br>
 <strong>Así cuando vuelve la nieve, te encuentra con todo listo...</strong>
 </center>
-</br>
+<br></br>
 <center>
 <img src="https://raw.githubusercontent.com/danieldaf/marchablanca_2026_komp/81efe797495743eb70448dcd731134be8acb9a34/25-08/3.png">
 </center>
