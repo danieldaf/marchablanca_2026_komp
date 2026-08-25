@@ -61,5 +61,6 @@ Válido hasta el 31/8 · abonando por transferencia
 </strong></center>
 <img src="https://raw.githubusercontent.com/danieldaf/marchablanca_2026_komp/81efe797495743eb70448dcd731134be8acb9a34/25-08/7.png">
 
-**<center>KOMP - El partner de los amantes de la montaña</center>**
+</br>
+<center><strong>KOMP - El partner de los amantes de la montaña</strong></center>
 <center><img width="500" src="https://raw.githubusercontent.com/danieldaf/marchablanca_2026_komp/81efe797495743eb70448dcd731134be8acb9a34/25-08/FOOTER.png"></center>
