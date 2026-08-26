@@ -7,8 +7,10 @@
 <center>
 El clima cambió los planes de la Marchablanca, pero entre todo eso 
 <strong>también apareció una buena noticia ;)</strong>
+</center>
 </p>
 <p>
+<center>
 <strong>Así cuando vuelve la nieve, te encuentra con todo listo...</strong>
 </center>
 </p>
@@ -19,8 +21,10 @@ El clima cambió los planes de la Marchablanca, pero entre todo eso
 <p>
 <center>
 AL MAL TIEMPO, BUENAS PROMOS
+</center>
 </p>
 <p>
+<center>
 <strong>20% OFF EN EQUIPAMIENTO DE ESQUÍ DE FONDO 🎿</strong>
 </center>
 </p>
