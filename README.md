@@ -6,7 +6,9 @@
 <p>
 <center>
 El clima cambió los planes de la Marchablanca, pero entre todo eso 
-<strong>también apareció una buena noticia ;)</strong> </br>
+<strong>también apareció una buena noticia ;)</strong>
+</p>
+<p>
 <strong>Así cuando vuelve la nieve, te encuentra con todo listo...</strong>
 </center>
 </p>
@@ -16,7 +18,9 @@ El clima cambió los planes de la Marchablanca, pero entre todo eso
 </center>
 <p>
 <center>
-AL MAL TIEMPO, BUENAS PROMOS </br>
+AL MAL TIEMPO, BUENAS PROMOS
+</p>
+<p>
 <strong>20% OFF EN EQUIPAMIENTO DE ESQUÍ DE FONDO 🎿</strong>
 </center>
 </p>
@@ -68,7 +72,12 @@ Aprovechá este beneficio exclusivo para la comunidad de la Marchablanca y segu�
 
 <p>
 <center>
-<strong>20% OFF exclusivo para inscriptos a la Marchablanca - CAU</br>
+<strong>20% OFF exclusivo para inscriptos a la Marchablanca - CAU</strong>
+</center>
+</p>
+<p>
+<center>
+<strong>
 Válido hasta el 31/8 · abonando por transferencia
 </strong>
 </center>
