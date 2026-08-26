@@ -5,7 +5,7 @@
 
 <p>
 <center>
-El clima cambió los planes de la Marcha Blanca, pero entre todo eso 
+El clima cambió los planes de la Marchablanca, pero entre todo eso 
 <strong>también apareció una buena noticia ;)</strong> </br>
 <strong>Así cuando vuelve la nieve, te encuentra con todo listo...</strong>
 </center>
@@ -62,13 +62,13 @@ Que cambie un plan no cambia las ganas de seguir esquiando...
 
 <p>
 <center>
-Aprovechá este beneficio exclusivo para la comunidad de la Marcha Blanca y seguí disfrutando con el equipo que mejor vaya con vos
+Aprovechá este beneficio exclusivo para la comunidad de la Marchablanca y seguí disfrutando con el equipo que mejor vaya con vos
 </center>
 </p>
 
 <p>
 <center>
-<strong>20% OFF exclusivo para inscriptos a la Marcha Blanca - CAU</br>
+<strong>20% OFF exclusivo para inscriptos a la Marchablanca - CAU</br>
 Válido hasta el 31/8 · abonando por transferencia
 </strong>
 </center>
